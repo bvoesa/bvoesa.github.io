@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>BVöSA - Verband</title>
+    <link rel="stylesheet" href="/backend/style.css">
+    <link rel="stylesheet" href="/backend/navstyle.css">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/logo-icon.ico">
+  </head>
+  <body>
+    <div onclick="out()" id="overlay"></div>
+<header>
+<a href="/"><img src="/logo.png" alt=""></a>
+<div id="in-btn" onclick="toggle()">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+{% include nav.html %}
+</header>
+<img src="{{page.pic}}" style="width: 100%;"/>
+<main>
+
+<h1>{{page.title}}</h1>
+{{content}}
+
+</main>
+{% include footer.html %}
+<script type="text/javascript" src="/backend/main.js"></script>
+  </body>
+</html>

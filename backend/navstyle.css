@@ -1,0 +1,81 @@
+
+nav ul li{
+  display: block;
+  list-style: none;
+  margin-right: 1em;
+  font-weight: 700;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-top: 2em;
+  padding-right: 1em;
+}
+
+nav{
+  position: fixed;
+  min-width: 4em;
+  max-width: 260px;
+  right: 0;
+  top: 0;
+  height: 100%;
+  z-index: 10000;
+  background-color: rgba(6, 44, 71,1);
+  color: rgba(255, 255, 255, .9);
+  transform: translateX(100%);
+  transition: all .3s linear;
+  padding: 4em 0 0 0;
+}
+
+nav.vis{
+  transform: translateX(0%);
+}
+
+
+#in-btn span{
+  display: block;
+  background-color: rgba(6, 44, 71,1);
+  width: 30px;
+  height: 5px;
+  margin-bottom: 5px;
+}
+
+#in-btn {
+  float: right;
+  cursor: pointer;
+}
+
+#out-btn{
+  position: absolute;
+  cursor: pointer;
+}
+
+#out-btn span{
+  display: block;
+  position: fixed;
+  top: 2.5em;
+  left: 50%;
+  background-color: rgba(255, 255, 255, .9);
+  width: 30px;
+  height: 5px;
+  transform-origin: center;
+}
+
+#out-btn span:first-child{
+  transform: translateX(-50%) rotate(45deg);
+}
+
+#out-btn span:nth-child(2){
+  transform: translateX(-50%) rotate(-45deg);
+}
+
+#overlay{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 100;
+  display: none;
+}
+
+#overlay.vis{
+  display: block;
+}
