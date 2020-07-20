@@ -1,3 +1,39 @@
+@media screen
+  and (min-width: 801px)
+  and (max-width: 1600px){
+    #in-btn span{
+      width: 30px;
+      height: 5px;
+    }
+}
+
+@media screen
+  and (max-width: 450px)
+  {
+    #in-btn span{
+      width: 60px;
+      height: 10px;
+    }
+}
+
+@media screen
+  and (min-width: 601px)
+  and (max-width: 800px){
+    #in-btn span{
+      width: 30px;
+      height: 5px;
+    }
+}
+
+@media screen
+  and (min-width: 451px)
+  and (max-width: 600px){
+    #in-btn span{
+      width: 45px;
+      height: 7px;
+    }
+}
+
 
 nav ul li{
   display: block;
@@ -34,8 +70,6 @@ nav.vis{
 #in-btn span{
   display: block;
   background-color: rgba(6, 44, 71,1);
-  width: 30px;
-  height: 5px;
   margin-bottom: 5px;
 }
 
