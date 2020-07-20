@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Condensed&display=swap');
 
 @media screen
-  and (min-width: 801px)
-  and (max-width: 1600px){
+  and (min-width: 801px){
     p, main li, footer{
       line-height: 1.7;
       font-size: 16px;
+    }
+    header img{
+      width: 18em;
     }
 }
 
@@ -16,6 +18,9 @@
       line-height: 1.7;
       font-size: 14px;
     }
+    header img{
+      width: 12em;
+    }
 }
 
 @media screen
@@ -25,6 +30,9 @@
       line-height: 1.7;
       font-size: 16px;
     }
+    header img{
+      width: 16em;
+    }
 }
 
 @media screen
@@ -33,6 +41,9 @@
     p, main li, footer{
       line-height: 1.7;
       font-size: 14px;
+    }
+    header img{
+      width: 14em;
     }
 }
 
@@ -117,7 +128,6 @@ footer div{
 
 header img{
   float: left;
-  width: 20em;
   display: inline-block;
   margin-left: 0px;
 }
