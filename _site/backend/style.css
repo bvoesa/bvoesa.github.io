@@ -9,6 +9,13 @@
     header img{
       width: 18em;
     }
+    h1{
+      font-size: 3em;
+    }
+    main{
+      overflow: hidden;
+      padding-bottom: 6.5em;
+    }
 }
 
 @media screen
@@ -20,6 +27,13 @@
     }
     header img{
       width: 12em;
+    }
+    h1{
+      font-size: 1.6em;
+    }
+    main{
+      overflow: hidden;
+      padding-bottom: 9em;
     }
 }
 
@@ -33,6 +47,13 @@
     header img{
       width: 16em;
     }
+    h1{
+      font-size: 2.5em;
+    }
+    main{
+      overflow: hidden;
+      padding-bottom: 6.5em;
+    }
 }
 
 @media screen
@@ -44,6 +65,13 @@
     }
     header img{
       width: 14em;
+    }
+    h1{
+      font-size: 2em;
+    }
+    main{
+      overflow: hidden;
+      padding-bottom: 8em;
     }
 }
 
@@ -72,10 +100,6 @@ h1, h2{
   margin-top: 1.3em;
 }
 
-h1{
-  font-size: 3em;
-}
-
 h4{
   color: #96C120;
   font-weight: 700;
@@ -100,7 +124,6 @@ main a:hover, footer a:hover{
 
 main{
   overflow: hidden;
-  padding-bottom: 6.5em;
 }
 
 header{
