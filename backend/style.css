@@ -158,3 +158,21 @@ header img{
 header ul li:hover, header ul li.current{
   color: #96C120;
 }
+
+
+nav a:hover{
+  text-decoration: none;
+  color: inherit;
+}
+
+footer p{
+  margin-top: 1em;
+}
+
+.card{
+  margin-top: 1em;
+}
+
+.card p.name{
+  font-weight: bold;
+}
