@@ -1,0 +1,13 @@
+---
+layout: default
+toplink: <a href="/sachverstaendige">&larr; Zurück zu allen Sachverständigen</a>
+---
+{% for item in site.data.personen %}
+    {% if item.url == page.permalink %}
+      {% capture img %}
+        {{item.img}}
+      {% endcapture %}
+    {% endif %}
+{% endfor %}
+<img src="{{img}}" style="float:left;padding-right:3em;padding-bottom:3em;" class="sv-img">
+{{page.content}}

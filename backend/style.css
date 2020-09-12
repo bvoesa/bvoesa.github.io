@@ -16,6 +16,10 @@
       overflow: hidden;
       padding-bottom: 6.5em;
     }
+
+    .sv-img{
+      width: 25%;
+    }
 }
 
 @media screen
@@ -34,6 +38,9 @@
     main{
       overflow: hidden;
       padding-bottom: 9em;
+    }
+    .sv-img{
+      width: 100%;
     }
 }
 
@@ -54,6 +61,9 @@
       overflow: hidden;
       padding-bottom: 6.5em;
     }
+    .sv-img{
+      width: 40%;
+    }
 }
 
 @media screen
@@ -72,6 +82,9 @@
     main{
       overflow: hidden;
       padding-bottom: 8em;
+    }
+    .sv-img{
+      width: 40%;
     }
 }
 
