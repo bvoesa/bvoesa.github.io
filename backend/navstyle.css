@@ -69,6 +69,10 @@ nav.vis{
   transform: translateX(0%);
 }
 
+nav a.current{
+  color: #96C120;
+}
+
 
 #in-btn span{
   display: block;

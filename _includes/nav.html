@@ -4,10 +4,10 @@
     <span></span>
   </div>
   <ul>
-    <li><a href="/abstammungsgutachten">Abstammungsgutachten</a></li>
-    <li><a href="/bestellung">Öffentliche Bestellung Sachverständiger</a></li>
-    <li><a href="/">Der Verband</a></li>
-    <li><a href="/sachverstaendige">Die Sachverständigen</a></li>
-    <li><a href="/vorstand">Der Vorstand</a></li>
+    <li><a href="/abstammungsgutachten" {% if page.permalink == "/abstammungsgutachten" %} class="current" {% endif %}>Abstammungsgutachten</a></li>
+    <li><a href="/bestellung" {% if page.permalink == "/bestellung" %} class="current" {% endif %}>Öffentliche Bestellung Sachverständiger</a></li>
+    <li><a href="/" {% if page.permalink == "/" %} class="current" {% endif %}>Der Verband</a></li>
+    <li><a href="/sachverstaendige" {% if page.permalink == "/sachverstaendige" %} class="current" {% endif %}>Die Sachverständigen</a></li>
+    <li><a href="/vorstand" {% if page.permalink == "/vorstand" %} class="current" {% endif %}>Der Vorstand</a></li>
   </ul>
 </nav>
