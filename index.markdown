@@ -6,6 +6,7 @@ layout: default
 pic: /Bilder/pipette-banner.jpg
 permalink: /
 title: Der Verband
+description: Der Bundesverband öffentlich bestellter und vereidigter Sachverständiger für Abstammungsbegutachtung (BVöSA) ist die Interessenvertretung öffentlich bestellter und vereidigter Sachverständiger für Abstammungsbegutachtung in Deutschland sowie vergleichbar Qualifizierter in Österreich und der Schweiz.
 ---
 
 Der Bundesverband öffentlich bestellter und vereidigter Sachverständiger für Abstammungsbegutachtung (BVöSA) ist die Interessenvertretung öffentlich bestellter und vereidigter Sachverständiger für Abstammungsbegutachtung in Deutschland sowie vergleichbar Qualifizierter in Österreich und der Schweiz. Eines unserer Anliegen ist es, länderübergreifend vergleichbare Qualitätsanforderungen und Normen zu entwickeln mit dem Ziel, diese mittelfristig in ganz Europa zu vereinheitlichen.

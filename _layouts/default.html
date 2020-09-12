@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    {% if page.description %}
+    <meta name="description" content="{{page.description}}"/>
+    {% endif %}
     <title>BVöSA - {{page.title}}</title>
     <link rel="stylesheet" href="/backend/style.css">
     <link rel="stylesheet" href="/backend/navstyle.css">
@@ -19,12 +22,13 @@
 </div>
 {% include nav.html %}
 </header>
+{% if page.pic %}
 <img src="{{page.pic}}" style="width: 100%;"/>
+{% endif %}
 <main>
   {% if layout.toplink %}
   {{layout.toplink}}
   {% endif %}
-
 <h1>{{page.title}}</h1>
 {{content}}
 

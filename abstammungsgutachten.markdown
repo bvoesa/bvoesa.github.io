@@ -4,6 +4,7 @@ layout: default
 pic: /Bilder/kinderhand-banner.jpg
 permalink: /abstammungsgutachten
 title: Abstammungsgutachten
+description: Alles wichtige zu Abstammungsgutachten
 ---
 
 Abstammungsuntersuchungen werden durchgeführt, um die Verwandtschaft zwischen Individuen zu untersuchen. Das Ergebnis solcher Untersuchungen wird in einem Schriftstück dargestellt, das als Abstammungsgutachten bezeichnet wird. Heute werden Abstammungsuntersuchungen nahezu ausschließlich mittels DNA-Analysen durchgeführt.
