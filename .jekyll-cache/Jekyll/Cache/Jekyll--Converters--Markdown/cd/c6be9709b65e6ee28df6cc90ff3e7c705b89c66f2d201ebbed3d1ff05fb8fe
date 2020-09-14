@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-    
-    <title>BVöSA - Impressum</title>
-    <link rel="stylesheet" href="/backend/style.css">
-    <link rel="stylesheet" href="/backend/navstyle.css">
-    <link rel="icon" type="image/vnd.microsoft.icon" href="/logo-icon.ico">
-  </head>
-  <body>
-    <div onclick="out()" id="overlay"></div>
-<header>
-<a href="/"><img src="/logo.png" alt=""></a>
-<div id="in-btn" onclick="toggle()">
-  <span></span>
-  <span></span>
-  <span></span>
-</div>
-<nav id="nav">
-  <div id="out-btn" onclick="toggle()">
-    <span></span>
-    <span></span>
-  </div>
-  <ul>
-    <li><a href="/abstammungsgutachten" >Abstammungsgutachten</a></li>
-    <li><a href="/bestellung" >Öffentliche Bestellung Sachverständiger</a></li>
-    <li><a href="/" >Der Verband</a></li>
-    <li><a href="/sachverstaendige" >Die Sachverständigen</a></li>
-    <li><a href="/vorstand" >Der Vorstand</a></li>
-  </ul>
-</nav>
-
-</header>
-
-<img src="/Bilder/papier-banner.jpg" style="width: 100%;"/>
-
-<main>
-  
-<h1>Impressum</h1>
-<p>BVöSA e.V.
+I""A<p>BVöSA e.V.
 c/o Dr. Rölleke Labor für Genetische Analytik GmbH
 Reuterstraße 2
 14482 Potsdam
@@ -145,18 +104,5 @@ Verwendete Begrifflichkeiten
 
 <p>Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</p>
 
-<p><sub>Foto von <a href="https://unsplash.com/@impatrickt" target="_blank">Patrick Tomasso</a> bei <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</sub></p>
-
-
-</main>
-<footer>
-  <div class="">
-    <p style="float:left;">BVöSA e.V., Reuterstraße 2, 14482 Potsdam</p>
-    <p style="float:right;"><a href="/impressum">Impressum</a></p>
-  </div>
-
-</footer>
-
-<script type="text/javascript" src="/backend/main.js"></script>
-  </body>
-</html>
+<p><sub>Foto von <a href="https://unsplash.com/@adroman" target="_blank">Aditya Romansa</a> bei <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</sub></p>
+:ET

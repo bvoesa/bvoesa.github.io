@@ -113,3 +113,5 @@ Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von M
 
 
 Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke
+
+<sub>Foto von <a href="https://unsplash.com/@impatrickt" target="_blank">Patrick Tomasso</a> bei <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</sub>

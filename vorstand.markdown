@@ -13,3 +13,5 @@ Der Verband wird durch den Vorstand vertreten. Dieser setzt sich wie folgt zusam
 3\. Vorsitzende: Mag. Susanne Haas, Wien<br>
 Schatzmeister: Ralph Krech, Potsdam<br>
 Schriftführerin: Dr. Iris Schulz, Basel
+
+<sub>Foto von <a href="https://unsplash.com/@sctgrhm" target="_blank">Scott Graham</a> bei <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</sub>

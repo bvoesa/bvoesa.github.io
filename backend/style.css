@@ -2,9 +2,13 @@
 
 @media screen
   and (min-width: 801px){
-    p, main li, footer{
+    p, main li{
       line-height: 1.7;
       font-size: 16px;
+    }
+    footer p{
+      line-height: 2;
+      font-size: 13px;
     }
     header img{
       width: 18em;
@@ -25,9 +29,13 @@
 @media screen
   and (max-width: 450px)
   {
-    p, main li, footer{
+    p, main li{
       line-height: 1.7;
       font-size: 14px;
+    }
+    footer p{
+      line-height: 2;
+      font-size: 11px;
     }
     header img{
       width: 12em;
@@ -47,9 +55,13 @@
 @media screen
   and (min-width: 601px)
   and (max-width: 800px){
-    p, main li, footer{
+    p, main li{
       line-height: 1.7;
       font-size: 16px;
+    }
+    footer p{
+      line-height: 2;
+      font-size: 13px;
     }
     header img{
       width: 16em;
@@ -69,9 +81,13 @@
 @media screen
   and (min-width: 451px)
   and (max-width: 600px){
-    p, main li, footer{
+    p, main li{
       line-height: 1.7;
       font-size: 14px;
+    }
+    footer p{
+      line-height: 2;
+      font-size: 11px;
     }
     header img{
       width: 14em;
