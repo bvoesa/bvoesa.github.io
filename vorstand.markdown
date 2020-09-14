@@ -4,7 +4,7 @@ layout: default
 pic: /Bilder/laptop-banner.jpg
 permalink: /vorstand
 title: Der Vorstand
-description: Hier finden sie den Vorstand des BVöSA.
+description: Hier finden Sie Informationen zum Vorstand des BVöSA
 ---
 Der Verband wird durch den Vorstand vertreten. Dieser setzt sich wie folgt zusammen:
 

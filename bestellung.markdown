@@ -4,7 +4,7 @@ layout: default
 pic: /Bilder/buecher-banner.jpg
 permalink: /bestellung
 title: Öffentliche Bestellung Sachverständiger
-description: Die wichtigsten Infos zur öffentlichen Bestellung Sachverständiger in Deutschland und der Schweiz.
+description: Die wichtigsten Infos zur öffentlichen Bestellung Sachverständiger in Deutschland, Österreich und der Schweiz.
 ---
 
 In Deutschland, Österreich und Liechtenstein ist der Begriff „Sachverständiger“ nicht geschützt. In Deutschland ist die Qualifikation von Sachverständigen für Abstammungsuntersuchungen in der „Richtlinie der Gendiagnostik-Kommission (GEKO) für die Anforderungen an die Durchführung genetischer Analysen zur Klärung der Abstammung und an die Qualifikation von ärztlichen und nichtärztlichen Sachverständigen gemäß § 23 Abs. 2 Nr. 4 und Nr. 2b GenDG“ geregelt. Allerdings regelt die Richtlinie nur die Sachkunde; Prozesskontrolle, Unparteilichkeit und persönliche Integrität sind nicht Gegenstand der Richtlinie.
