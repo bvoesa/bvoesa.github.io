@@ -6,17 +6,17 @@ permalink: /impressum
 title: Impressum
 ---
 
-BVöSA e.V.
-c/o Dr. Rölleke Labor für Genetische Analytik GmbH
-Reuterstraße 2
-14482 Potsdam
+BVöSA e.V.<br>
+c/o Dr. Rölleke Labor für Genetische Analytik GmbH<br>
+Reuterstraße 2<br>
+14482 Potsdam<br>
 Tel.: 0331 / 58 16 44-0
 
-V.i.S.d.P.
-Dr. Kirsten Thelen
-c/o ID-Labor GmbH
-Peter-Sander-Straße 43 c
-55252 Wiesbaden OT Mainz-Kastel
+V.i.S.d.P.<br>
+Dr. Kirsten Thelen<br>
+c/o ID-Labor GmbH<br>
+Peter-Sander-Straße 43 c<br>
+55252 Wiesbaden OT Mainz-Kastel<br>
 Tel.: 06134-555 630
 
 ## Haftungsausschluss
