@@ -4,14 +4,17 @@ permalink: /sachverstaendige
 title: Sachverständige
 description: Die Mitglieder des BVöSA stellen sich vor
 ---
+
 <div class="row justify-content-start">
   {% for item in site.data.personen %}
-  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-    <div class="card">
-      <img class="card-img-top" src="{{item.img}}">
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3 pb-4">
+    <div class="card height-full">
+      <img class="card-img-top" src="{{item.img}}" />
       <div class="card-body">
-      <a href="{{item.url}}"><p class="name">{{item.name}}</p></a>
-      <p class="beschreibung"><a href="{{item.firmaurl}}" target="_blank">{{item.firma}}</a></p>
+        <p class="name">{{item.name}}</p>
+        <p class="beschreibung">
+          <a href="{{item.firmaurl}}" target="_blank">{{item.firma}}</a>
+        </p>
       </div>
     </div>
   </div>
