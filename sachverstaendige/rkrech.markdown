@@ -9,4 +9,4 @@ title: Ralph Krech
 - Promotion
 - Studium
 - Zusatzqualifikation:
-- Motto: „Wo kein Kläger, da kein Richter“ (?)
+- Motto: „Wo kein Kläger, da kein Richter“
